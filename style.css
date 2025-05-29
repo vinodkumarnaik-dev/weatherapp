@@ -28,3 +28,22 @@
     flex-shrink: 0;
     margin-top: 20px;
 }
+
+.air-conditions {
+    background-color: #202b3b;
+    color: white;
+    font-family: 'Segoe UI', sans-serif;
+    width: 700px;
+    display: flex;
+    
+}
+.air-conditions .col h4 {
+    font-weight: bold;
+    margin-top: 5px;
+    gap: 60px;
+}
+.air-conditions .col p {
+    font-size: 14px;
+    margin-bottom: 0;
+    color: #ccc;
+}
